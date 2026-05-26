@@ -1,4 +1,4 @@
-# 💸 Sistema de Transferências Bancárias
+#  Sistema de Transferências Bancárias
 
 Projeto desenvolvido em Java para simular o fluxo real de transferências entre contas bancárias — com validações de negócio, tratamento de erros e histórico de transações.
 
